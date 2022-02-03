@@ -14,9 +14,6 @@
     <loc>https://federicobianchi.io/upcoming/training-temporal-compass/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicobianchi.io/upcoming-type/1/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://federicobianchi.io/tag/embeddings/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,9 +21,6 @@
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/tag/nlp/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/publication_types/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/upcoming/</loc>
@@ -39,5 +33,7 @@
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/categories/</loc>
+  </url><url>
+    <loc>https://federicobianchi.io/publication_types/</loc>
   </url>
 </urlset>
