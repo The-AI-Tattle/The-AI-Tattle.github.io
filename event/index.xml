@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | The AI Tattle</title>
-    <link>https://federicobianchi.io/event/</link>
-      <atom:link href="https://federicobianchi.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aitattle.com/event/</link>
+      <atom:link href="https://aitattle.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://federicobianchi.io/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aitattle.com/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://federicobianchi.io/event/</link>
+      <link>https://aitattle.com/event/</link>
     </image>
     
     <item>
       <title>Talk: Learning JAX for Great Good</title>
-      <link>https://federicobianchi.io/talk/talk-learning-jax-for-great-good/</link>
+      <link>https://aitattle.com/talk/talk-learning-jax-for-great-good/</link>
       <pubDate>Wed, 17 Feb 2021 13:00:00 +0000</pubDate>
-      <guid>https://federicobianchi.io/talk/talk-learning-jax-for-great-good/</guid>
+      <guid>https://aitattle.com/talk/talk-learning-jax-for-great-good/</guid>
       <description></description>
     </item>
     

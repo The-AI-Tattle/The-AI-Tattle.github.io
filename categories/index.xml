@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | The AI Tattle</title>
-    <link>https://federicobianchi.io/categories/</link>
-      <atom:link href="https://federicobianchi.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aitattle.com/categories/</link>
+      <atom:link href="https://aitattle.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://federicobianchi.io/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aitattle.com/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://federicobianchi.io/categories/</link>
+      <link>https://aitattle.com/categories/</link>
     </image>
     
   </channel>

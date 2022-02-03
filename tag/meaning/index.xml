@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meaning | The AI Tattle</title>
-    <link>https://federicobianchi.io/tag/meaning/</link>
-      <atom:link href="https://federicobianchi.io/tag/meaning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aitattle.com/tag/meaning/</link>
+      <atom:link href="https://aitattle.com/tag/meaning/index.xml" rel="self" type="application/rss+xml" />
     <description>Meaning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://federicobianchi.io/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aitattle.com/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
       <title>Meaning</title>
-      <link>https://federicobianchi.io/tag/meaning/</link>
+      <link>https://aitattle.com/tag/meaning/</link>
     </image>
     
     <item>
       <title> Training Temporal Word Embeddings with a Compass</title>
-      <link>https://federicobianchi.io/upcoming/training-temporal-compass/</link>
+      <link>https://aitattle.com/upcoming/training-temporal-compass/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://federicobianchi.io/upcoming/training-temporal-compass/</guid>
+      <guid>https://aitattle.com/upcoming/training-temporal-compass/</guid>
       <description></description>
     </item>
     
