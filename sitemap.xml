@@ -3,36 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://federicobianchi.io/event/</loc>
-    <lastmod>2021-10-07T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/talk/talk-how-to-train-your-clip/</loc>
-    <lastmod>2021-10-07T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/</loc>
-    <lastmod>2021-10-07T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/talk/talk-natural-language-processing-to-better-understand-language-and-vice-versa/</loc>
-    <lastmod>2021-10-03T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/talk/talk-contrastive-language-image-pre-training-for-the-italian-language/</loc>
-    <lastmod>2021-09-16T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/talk/talk-deep-learning-for-quantum-problems/</loc>
-    <lastmod>2021-03-23T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/talk/talk-fantastic-embeddings-and-how-to-align-them/</loc>
-    <lastmod>2021-03-23T13:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/talk/talk-learning-jax-for-great-good/</loc>
     <lastmod>2021-02-17T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicobianchi.io/talk/talk-vector-space-alignment-for-semantic-change-analysis/</loc>
-    <lastmod>2020-10-07T13:00:00+00:00</lastmod>
+    <loc>https://federicobianchi.io/</loc>
+    <lastmod>2021-02-17T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicobianchi.io/publication/training-temporal-compass/</loc>
+    <loc>https://federicobianchi.io/upcoming/training-temporal-compass/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicobianchi.io/publication-type/1/</loc>
+    <loc>https://federicobianchi.io/upcoming-type/1/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/tag/embeddings/</loc>
@@ -47,7 +29,7 @@
     <loc>https://federicobianchi.io/publication_types/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://federicobianchi.io/publication/</loc>
+    <loc>https://federicobianchi.io/upcoming/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/tags/</loc>
@@ -55,9 +37,6 @@
   </url><url>
     <loc>https://federicobianchi.io/tag/temporal-word-embeddings/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://federicobianchi.io/talk/talk-on-the-capabilities-of-logic-tensor-networks-for-deductive-reasoning/</loc>
-    <lastmod>2019-03-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicobianchi.io/categories/</loc>
   </url>
