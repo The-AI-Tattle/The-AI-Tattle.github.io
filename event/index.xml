@@ -5,7 +5,7 @@
     <link>https://aitattle.com/event/</link>
       <atom:link href="https://aitattle.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Feb 2022 18:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aitattle.com/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Talk: Learning JAX for Great Good</title>
-      <link>https://aitattle.com/talk/talk-learning-jax-for-great-good/</link>
-      <pubDate>Wed, 17 Feb 2021 13:00:00 +0000</pubDate>
-      <guid>https://aitattle.com/talk/talk-learning-jax-for-great-good/</guid>
+      <title>Talk: Anna Wegmann</title>
+      <link>https://aitattle.com/talk/talk-anna-wegmann/</link>
+      <pubDate>Thu, 17 Feb 2022 18:00:00 +0000</pubDate>
+      <guid>https://aitattle.com/talk/talk-anna-wegmann/</guid>
       <description></description>
     </item>
     
