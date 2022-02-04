@@ -2,8 +2,8 @@
   "name": "The AI Tattle",
   "short_name": "The AI Tattle",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/media/icon_hu5190940fbab78401816a5e8bbbbd704e_5058_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
